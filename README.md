@@ -1,4 +1,4 @@
-# COS285 Lab 4 – Binary Tree and Recursion
+# COS285 Lab 4 
 This lab explores binary trees and recursion in Java.  implemented a custom `MyBinaryTree` class with recursive insertion, breadth-first search printing, and recursive search, also practiced using GitHub  and running Java programs with command-line arguments.
 
 ## Team Members
