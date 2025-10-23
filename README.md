@@ -11,7 +11,7 @@ data.txt input data used to build the tree
 
 ## Features Implemented
  Recursive insertion into a binary search tree
-Breadth-first search traversal (prints all nodes level by level)
+Breadth-first search traversal
  Recursive search method to find specific values
  Command-line argument support for reading input data
 
